@@ -1,0 +1,28 @@
+_repo: Jos--Estev-o-Edi--o-do-centenario-_24620
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sousa, Eduardo de
+    alias: Souza, Eduardo de
+    gutenberg_agent_id: '26621'
+    url: http://www.gutenberg.org/2009/agents/26621
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2008-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24620'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Estêvão, José, 1809-1862'
+- !lcc 'DP'
+title: 'José Estevão
+
+  (Edição do centenario)'
+url: http://www.gutenberg.org/ebooks/24620
